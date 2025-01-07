@@ -3,7 +3,7 @@
 <h3 align="center">Student & Aspiring Coder | Passionate About Transforming Ideas Into Code</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDN2NzRybjBxY3ZjN3ZxcWNkZ2p0cXlycGE1M2g2ejAxYTQ4M2Y4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
-- 🔭 I’m currently working on [Zomato Clone Wesite](https://github.com/aadityaa29/Project)
+- 🔭 I’m currently working on [AI-Based travel Planner](https://github.com/aadityaa29/Travel_Planner_CodeJam)
 
 - 🌱 I’m currently learning **Vue.js | React | OpenCV**
 
