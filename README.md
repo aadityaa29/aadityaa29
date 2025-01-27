@@ -1,23 +1,66 @@
-![Header](https://github.com/aadityaa29/aadityaa29/blob/main/header.png)
-<h1 align="center">Hi 👋, I'm Aditya Pachouri</h1>
-<h3 align="center">Student & Aspiring Coder | Passionate About Transforming Ideas Into Code</h3>
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDN2NzRybjBxY3ZjN3ZxcWNkZ2p0cXlycGE1M2g2ejAxYTQ4M2Y4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
+# Hi there! 👋 Welcome to My GitHub Profile
 
-- 🔭 I’m currently working on [AI-Based travel Planner](https://github.com/aadityaa29/Travel_Planner_CodeJam)
+![Welcome Gif](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
 
-- 🌱 I’m currently learning **Vue.js | React | OpenCV**
+I'm a passionate **Web Developer and Designer**, always eager to learn and create amazing projects that solve real-world problems. 🚀
 
-- 🔭 I’m currently working on **JS based Game**
+---
 
-- 📫 How to reach me **aditya.pachouri29@gmail.com**
+## 💻 About Me:
 
-- ⚡ Fun fact **I think, I am Funny!**
+- 🎓 Pursuing BTech at JIIT Noida.
+- 🌐 I specialize in **Frontend Development** and have built projects like:
+  - A **Zomato Clone**.
+  - An **AI-based Travel Planner**.
+  - An **Thought Trail**.
+- 💡 Exploring **Node.js**, **Flutter**, and AI-driven applications.
+- 📚 I’m currently working on:
+  - An **AI Resume Builder** web app.
+  - A **Doctor-Patient Management System**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/adityapachouri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityapachouri" height="30" width="40" /></a>
-<a href="https://instagram.com/aditya_pachouri29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditya_pachouri29" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## 🛠️ Technologies and Tools:
+
+- **Languages:** JavaScript, TypeScript, PHP, HTML, CSS, C++
+- **Frameworks & Libraries:** React, Tailwind CSS, Vue 3
+- **Tools:** Node.js, MySQL, Netlify, Git
+- **Other Skills:** UI/UX Design, API Integration, AI Tools
+
+---
+
+## 🌟 Featured Projects:
+
+### 🥇 AI-based Travel Planner
+- An intelligent planner to streamline travel plans with AI.
+- [View Project](https://travel-planner-ai.netlify.app/) 
+
+### 🥈 Crave Cart
+- A food ordering platform inspired by Zomato’s design.
+- [View Project](https://github.com/aadityaa29/Crave-Cart-Project)
+
+### 🥉 Thought Trail
+- A Blog posting platform which allow admin to upload posts.
+- [View Project](https://github.com/aadityaa29/Thought_Trail)
+
+---
+
+<!-- ## 📊 GitHub Stats:
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+---
+-->
+
+## 🤝 Connect With Me:
+
+- 🌐 [My Portfolio Website](https://aadityaa29.github.io/My-Portfolio/)
+- 💼 [LinkedIn](https://linkedin.com/in/adityapachouri)
+<!-- - 🐦 [Twitter](https://twitter.com/YourHandle) -->
+- 📧 Email: adityapachouri01@gmail.com
+
+---
+
+![Thank You Gif](https://media.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif)
+
+### “Let’s collaborate and build something great together!” ✨
