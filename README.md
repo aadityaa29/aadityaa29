@@ -16,7 +16,7 @@ I'm a passionate **Web Developer and Designer**, always eager to learn and creat
 - 💡 Exploring **Node.js**, **Flutter**, and AI-driven applications.
 - 📚 I’m currently working on:
   - An **AI Resume Builder** web app.
-  - A **Doctor-Patient Management System**.
+  -  *Coffee aur code*.
 
 ---
 
@@ -38,10 +38,6 @@ I'm a passionate **Web Developer and Designer**, always eager to learn and creat
 ### 🥈 Crave Cart
 - A food ordering platform inspired by Zomato’s design.
 - [View Project](https://github.com/aadityaa29/Crave-Cart-Project)
-
-### 🥉 Thought Trail
-- A Blog posting platform which allow admin to upload posts.
-- [View Project](https://github.com/aadityaa29/Thought_Trail)
 
 ---
 
