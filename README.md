@@ -54,7 +54,7 @@ AI-powered itinerary generator integrating **Google Maps** & **Weather APIs**, c
 
 ## 🤝 Connect With Me:
 
-- 🌐 [My Portfolio Website](https://aadityaa29.github.io/My-Portfolio/)
+- 🌐 [My Portfolio Website](https://www.adityapachouri.site/)
 - 💼 [LinkedIn](https://linkedin.com/in/adityapachouri)
 - 📧 Email: **adityapachouri01@gmail.com**
 
